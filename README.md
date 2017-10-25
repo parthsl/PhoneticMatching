@@ -4,6 +4,8 @@ Given two words either in Hindi or English, task is to determine whether two wor
 Input : Two words in Hindi/English
 Output : 0 ---> if phonetically same
 	 1 ---> if phonetically different
+	
+Languages constraint : C, C++, Java
 
 Folder Structure:
 TheSparklersNITK ---> Eclipse project(can be import directly).
