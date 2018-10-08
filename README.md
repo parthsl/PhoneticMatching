@@ -1,4 +1,5 @@
 # PhoneticMatching
+A samsung recommended project
 Given two words either in Hindi or English, task is to determine whether two words are phonetically similar or not.
 
 Input : Two words in Hindi/English
